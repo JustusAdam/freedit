@@ -7,3 +7,6 @@
 config.toml
 /snapshots
 /tantivy
+
+analysis_result.frg
+analysis_result.info.json
